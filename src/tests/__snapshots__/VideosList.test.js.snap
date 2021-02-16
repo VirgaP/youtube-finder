@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`VideosList should exist 1`] = `
+<div
+  className="video-list-container"
+  id="videosList"
+/>
+`;
